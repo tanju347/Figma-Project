@@ -1,3 +1,5 @@
+
+
 h1 {
     background-color: indianred;
     text-align: center;
@@ -32,14 +34,14 @@ nav ul li {
     margin: 0 15px;
 }
 
-.hero {
+.main {
     display: flex;
     align-items: center;
     justify-content: space-around;
     padding: 50px 10%;
 }
 
-.hero-content h2 {
+.main-content h2 {
     font-size: 48px;
     color: #333;
 }
@@ -59,7 +61,7 @@ nav ul li {
     border-radius: 0 5px 5px 0;
 }
 
-.stats {
+.cards {
     display: flex;
     justify-content: center;
     gap: 20px;
@@ -76,6 +78,4 @@ nav ul li {
 }
 .green{
     background-color: greenyellow;
-}
-
-
+} 
