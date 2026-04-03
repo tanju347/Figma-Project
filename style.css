@@ -50,8 +50,9 @@ nav ul li {
     align-items: center;
     justify-content: space-around;
     padding: 50px 10%;
-    background-image:./ul/images/bg.png
+ background-image: url(./images/bg.png);
 }
+
 
 .main-content h2 {
     font-size: 48px;
